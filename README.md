@@ -1,21 +1,15 @@
-# profile_ui
+# Portfolio App 
 
-![image](https://github.com/user-attachments/assets/b9a03104-704b-4c95-aa39-e5dcefd7072d)
-
-
+This is a personal portfolio application built using **Flutter**. It showcases my skills as a full-stack developer, with a section for my tech stack, contact information, and a brief introduction. The app features a clean and modern design, providing a great way to showcase my work and skills to potential clients or employers.
 
 
-A new Flutter project.
+## Tech Stack
 
-## Getting Started
+- **Flutter**: For building the mobile application.
+- **Dart**: The programming language used to develop the app.
+- **Material Design**: The design system used for UI components.
+- **GridView**: Used for displaying the tech stack logos in a grid layout.
+- **Assets**: Custom logos for each tech stack and images are placed in the `/assets/projects` folder.
 
-This project is a starting point for a Flutter application.
+- ![image](https://github.com/user-attachments/assets/7b3fe419-83f6-44ec-86f9-08de111ea810)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
