@@ -1,4 +1,4 @@
-# Portfolio App 
+# Dasun's Portfolio
 
 This is a personal portfolio application built using **Flutter**. It showcases my skills as a full-stack developer, with a section for my tech stack, contact information, and a brief introduction. The app features a clean and modern design, providing a great way to showcase my work and skills to potential clients or employers.
 
