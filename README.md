@@ -8,7 +8,7 @@ This is a personal portfolio application built using **Flutter**. It showcases m
 - **Flutter**: For building the mobile application.
 - **Dart**: The programming language used to develop the app.
 - **Material Design**: The design system used for UI components.
-- **GridView**: Used for displaying the tech stack logos in a grid layout.
+- **Custom Widgets**: The code includes a custom TechButton widget, which is used to display the various technologies and tools in the portfolio.
 - **Assets**: Custom logos for each tech stack and images are placed in the `/assets/projects` folder.
 
 - ![image](https://github.com/user-attachments/assets/7b3fe419-83f6-44ec-86f9-08de111ea810)
